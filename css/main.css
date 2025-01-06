@@ -1,0 +1,730 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: whitesmoke;
+}
+
+.drive {
+    display: flex;
+    width: 60%;
+    margin-left: 350px;
+    padding-top: 40px;
+    list-style: none;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.solid {
+    border-radius: 5px;
+    background-color: gold;
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 80px;
+}
+
+.solid1 {
+    padding: 5px;
+    color: white;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.drive2 {
+    width: 100%;
+    height: 800px;
+}
+
+.intel {
+    text-align: center;
+    padding-top: 70px;
+}
+
+.intel1 {
+    font-size: 30px;
+}
+
+.yuvent{
+    position: relative;
+    right: 200px;
+    bottom: 35px;
+}
+
+.intel2 {
+    color: black;
+    width: 35%;
+    padding-left: 500px;
+}
+
+.image2 {
+    padding-left: 300px;
+}
+
+.homer {
+    display: flex;
+    width: 70%;
+    margin-left: 220px;
+}
+
+.homer1 {
+    padding-left: 750px;
+    width: 20%;
+    position: relative;
+    bottom: 70px;
+    left: 20px;
+}
+
+.left {
+    padding-left: 120px;
+    padding-top: 70px;
+}
+
+.box3 {
+    position: relative;
+    bottom: 40px;
+}
+
+.box4 {
+    position: relative;
+    left: 30px;
+}
+
+.pen1 {
+    position: relative;
+    left: 40px;
+    border: 1px solid blue;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    color: white;
+}
+
+.pen2 {
+    position: relative;
+    left: 20px;
+    border: 1px solid blue;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-color: rgb(41, 243, 41);
+    color: white;
+}
+
+.pen3 {
+    position: relative;
+    left: 22px;
+    border: 1px solid blue;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-color: gold;
+    color: white;
+}
+
+.pen4 {
+    position: relative;
+    left: 25px;
+    border: 1px solid blue;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-color: blue;
+    color: white;
+}
+
+.pen-1 {
+    padding: 10px;
+}
+
+/* drive3 */
+
+.drive3 {
+    background-color: rgb(68, 218, 218);
+    width: 100%;
+    height: 700px;
+}
+
+.best {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.best1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.besting {
+    display: flex;
+    padding-left: 530px;
+    font-size: 20px;
+}
+
+.menu {
+    color: white;
+    padding-left: 100px;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 120px;
+    height: 50px;
+    background-color: white;
+    background-color: transparent;
+    border: dashed;
+}
+
+.menu2 {
+    color: rgb(255, 217, 0);
+    padding-left: 100px;
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 120px;
+    height: 50px;
+    background-color: white;
+    margin-left: 20px;
+}
+
+.excel2 {
+    position: relative;
+    right: 50px;
+    top: 10px;
+    
+}
+
+
+.exzel1 {
+    position: relative;
+    right: 50px;
+    top: 10px;
+}
+
+.inside {
+    display: flex;
+    padding-left: 200px;
+    padding-top: 177px;
+}
+
+.inside-2 {
+    width: 30%;
+}
+
+.inside-1 {
+    width: 40%;
+    padding-left: 150px;
+    position: relative;
+    bottom: 20px;
+    color: whitesmoke;
+}
+
+.lorem1 {
+    display: flex;
+}
+
+.lorem2 {
+    padding-left: 20px;
+}
+
+.photos {
+    padding-left: 120px;
+}
+
+/* other teachers */
+
+.people {
+    width: 100%;
+    height: 850px;
+}
+
+.person1 {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.person2 {
+    font-size: 30px;
+}
+
+.person3 {
+    width: 20%;
+    padding-left: 350px;
+}
+
+.image3 {
+    border-radius: 20px;
+}
+
+.person4 {
+    width: 20%;
+    padding-left: 150px;
+}
+
+.person-1 {
+    display: flex;
+}
+
+.vocal1 {
+    color: aqua;
+    position: relative;
+    left: 145px;
+}
+
+.vocal {
+    display: flex;
+}
+
+.smoke {
+    font-size: 20px;
+}
+
+.vocal2 {
+    color: rgb(0, 222, 0);
+    position: relative;
+    left: 145px;
+}
+
+.vocal3 {
+    color: blue;
+    position: relative;
+    left: 160px;
+}
+
+.vocal4 {
+    color: red;
+    position: relative;
+    left: 145px;
+}
+
+/* /other teachers */
+
+/* Our news */
+
+.people1 {
+    background-color: rgb(0, 245, 0);
+    width: 100%;
+    height: 700px;
+}
+
+.uznews {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.lamp {
+    font-size: 30px;
+    color: white;
+}
+
+.lamp1 {
+    color: whitesmoke;
+}
+
+.photowop1 {
+    width: 500px;
+    height: 220px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 240px;
+    border-radius: 10px;
+}
+
+.photowop2 {
+    width: 60%;
+    margin-left: 30px;
+}
+
+.dollor {
+    font-size: 13px;
+}
+
+.live {
+    display: flex;
+    padding-top: 30px;
+}
+
+
+.barca {
+    border-radius: 10px;
+}
+
+.photowop3 {
+    padding-left: 30px;
+}
+
+.how {
+    color: red;
+    font-size: 18px;
+}
+
+.barca1 {
+    color: red;
+    padding-top: 30px;
+    position: relative;
+    left: 220px;
+    font-size: 13px;
+}
+
+.how1 {
+    color: black;
+    font-size: 18px;
+}
+
+.barca2 {
+    color: black;
+    padding-top: 30px;
+    position: relative;
+    left: 220px;
+    font-size: 13px;
+}
+
+.photowop {
+    display: flex;
+}
+
+.photowop-2 {
+    width: 500px;
+    height: 220px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.date {
+    display: flex;
+    color: darkgray;
+}
+
+.date1 {
+    padding-left: 10px;
+}
+
+/* /Our news */
+
+/* our gallery */
+
+.gallery {
+    width: 100%;
+    height: 800px;
+    background-color: whitesmoke;
+}
+
+.son {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 100px;
+}
+
+.web {
+    font-size: 10px;
+}
+
+.web1 {
+    display: flex;
+    list-style: none;
+    margin-left: 500px;
+}
+
+.web2 {
+    color: black;
+}
+
+.web3 {
+    color: cadetblue;
+}
+
+.enable {
+    border-radius: 15px;
+    margin-left: 30px;
+}
+
+.rong {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.kidzone {
+    width: 100%;
+    height: 700px;
+}
+
+/* /our gallery */
+
+/* Contact us */
+.parents {
+    width: 100%;
+    height: 600px;
+    background-color: whitesmoke;
+}
+
+.lap1 {
+    padding-left: 370px;
+}
+
+.bus {
+    width: 20%;
+}
+
+.parents2 {
+    display: flex;
+    margin-left: 300px;
+}
+
+.real {
+    border-radius: 50%;
+    border: 1px solid blue;
+    width: 60px;
+    height: 60px;
+    background-color: cyan;
+}
+
+.real2 {
+    padding-left: 17px;
+    padding-top: 13px;
+    color: white;
+}
+
+.real1 {
+    border-radius: 50%;
+    border: 1px solid red;
+    width: 60px;
+    height: 60px;
+    background-color: gold;
+}
+
+.real3 {
+    padding-left: 15px;
+    padding-top: 13px;
+    color: white;
+}
+
+.great {
+    border-radius: 50%;
+    border: 1px solid red;
+    width: 90px;
+    height: 90px;
+    background-color: rgb(4, 215, 4);
+}
+
+.great2 {
+    padding-left: 33px;
+    padding-top: 25px;
+    color: white;
+}
+
+.taxi {
+    position: relative;
+    bottom: 70px;
+    right: 60px;
+}
+
+.spain {
+    width: 100%;
+    height: 105px;
+    background-color: blue;
+}
+
+.spain2 {
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+}
+
+input:focus {
+    outline: none !important;
+}
+
+.page {
+    margin-left: 400px;
+}
+
+.page2 {
+    display: flex;
+    padding-top: 30px;
+}
+
+.page3 {
+    color: white;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-top: 5px;
+}
+
+.spain4 {
+    color: white;
+    font-size: 13px;
+    padding-left: 125px;
+    position: relative;
+    bottom: 20px;
+}
+
+.train1 {
+    position: relative;
+    left: 5px;
+}
+
+.train2 {
+    position: relative;
+    left: 25px;
+}
+
+.train3 {
+    position: relative;
+    left: 10px;
+}
+
+.spain3 {
+    border-radius: 10px;
+    width: 100px;
+    height: 33px;
+    background-color: gold;
+    color: white;
+    position: relative;
+    right: 100px;
+    border: 1px solid gold;
+}
+
+.exit {
+    display: flex;
+    color: white;
+}
+
+.dont {
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.linya {
+    border-right: 3px solid white;
+    height: 60px;
+    position: relative;
+    right: 50px;
+    bottom: 10px;
+}
+
+/* /Contact us */
+
+/* About  */
+
+.poker {
+    width: 100%;
+    height: 450px;
+}
+
+.detal {
+    color: gold;
+}
+
+.ipad {
+    font-size: 20px;
+}
+
+.satuday1 {
+    color: gold;
+    border: 1px solid gold;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.satuday {
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid darkgrey;
+    padding: 10px;
+}
+
+.blog {
+    color: gold;
+}
+
+.ipad1 {
+    width: 40%;
+}
+
+.fontd {
+    border-radius: 10px;
+}
+
+.where {
+    display: flex;
+    padding-top: 100px;
+}
+
+.poker2 {
+    position: relative;
+    right: 150px;
+}
+
+.poker1 {
+    position: relative;
+    left: 230px;
+}
+
+.pencil {
+    position: relative;
+    right: 100px;
+}
+
+.pencilcase {
+    position: relative;
+    left: 100px;
+}
+
+.when {
+    color: darkgray;
+}
+
+/* /About  */
+
+.food {
+    width: 100%;
+    height: 120px;
+    background-color: whitesmoke;
+}
+
+.face {
+    color: gold;
+}
+
+.food-1 {
+    display: flex;
+    margin-left: 580px;
+    padding-top: 30px;
+    color: darkgray;
+}
+
+.wifi {
+    padding-left: 500px;
+}
+
+.parol {
+    padding-left: 40px;
+}
+
+.golf {
+    color: gold;
+}
+
+.recent {
+    display: flex;
+}
+
+.work {
+    padding-left: 20px;
+}
+
+.board {
+    width: 70%;
+}
